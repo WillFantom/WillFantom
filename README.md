@@ -11,8 +11,13 @@
 
 ### 💻 What I'm Working On...
 
-[![ClickOS Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=clickos)](https://github.com/anuraghazra/github-readme-stats)
-[![ClickOS Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=unimon-ctl)](https://github.com/anuraghazra/github-readme-stats)
+[![ClickOS Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=clickos)](https://github.com/willfantom/clickos)
+[![ClickOS Ctl Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=unimon-ctl)](https://github.com/willfantom/unimon-ctl)
+
+### 👀 Side Projects
+
+[![SUI Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=sui)](https://github.com/willfantom/sui)
+[![Composing Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=Composing)](https://github.com/willfantom/Composing)
 
 ### 📈 My Stats...
 
