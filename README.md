@@ -1,11 +1,22 @@
-### 
+### 👤 Me...
 
-![Will's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willfantom&show_icons=true)
+**Current Position:** PhD Student (research)  
+**Interests:**
+ - Unikernels
+ - Network Function Virtualization
+ - 6 Seasons and a Movie
+ - NetDevOps
+ - Awesome Self-Hosted Software
+
 
 ### 💻 What I'm Working On...
 
 [![ClickOS Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=clickos)](https://github.com/anuraghazra/github-readme-stats)
 [![ClickOS Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=unimon-ctl)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📈 My Stats...
+
+![Will's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willfantom&show_icons=true&hide=["prs","issues","contribs"])
 
 <!--
 **WillFantom/WillFantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
