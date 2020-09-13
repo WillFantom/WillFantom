@@ -18,6 +18,7 @@
 
 [![SUI Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=sui)](https://github.com/willfantom/sui)
 [![Composing Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=Composing)](https://github.com/willfantom/Composing)
+[![Dropbox Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=dropbox-ignore)](https://github.com/willfantom/dropbox-ignore)
 
 ### 📈 My Stats...
 
