@@ -13,6 +13,7 @@
 
 [![ClickOS Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=clickos)](https://github.com/willfantom/clickos)
 [![ClickOS Ctl Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=unimon-ctl)](https://github.com/willfantom/unimon-ctl)
+[![LU Covid Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=lu-covid-api)](https://github.com/willfantom/lu-covid-api)
 
 ### 👀 Side Projects
 
