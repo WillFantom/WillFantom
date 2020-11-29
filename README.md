@@ -1,41 +1,73 @@
-### 👤 Me...
+## Hey 👋
 
-**Current Position:** PhD Student (research)  
-**Interests:**
- - Unikernels
- - Network Function Virtualization
- - 6 Seasons and a Movie
- - NetDevOps
- - Awesome Self-Hosted Software
+- 👤 My Position: PhD Student @ Lancaster University, UK
+- 📚 My Research: Monitoring Virtualized Networks using Unikernels
 
+---
 
-### 💻 What I'm Working On...
+### Current Projects 🗂
 
-[![ClickOS Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=clickos)](https://github.com/willfantom/clickos)
-[![ClickOS Ctl Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=unimon-ctl)](https://github.com/willfantom/unimon-ctl)
-[![LU Covid Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=lu-covid-api)](https://github.com/willfantom/lu-covid-api)
+<a href="https://github.com/uniprobe/clickos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=clickos&theme=graywhite&show_owner=true&hide_border=true">
+</a>
+<a href="https://github.com/uniprobe/unimon-ctl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uniprobe&repo=unimon-ctl&theme=graywhite&show_owner=true&hide_border=true">
+</a>
+<a href="https://github.com/serverhd/servherhd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serverhd&repo=serverhd&theme=graywhite&show_owner=true&hide_border=true">
+</a>
+<a href="https://github.com/willfantom/mininet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=mininet&theme=graywhite&show_owner=true&hide_border=true">
+</a>
 
-### 👀 Side Projects
+---
 
-[![SUI Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=sui)](https://github.com/willfantom/sui)
-[![Composing Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=Composing)](https://github.com/willfantom/Composing)
-[![Dropbox Card](https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=dropbox-ignore)](https://github.com/willfantom/dropbox-ignore)
+### Continuously Updated Stuff 🕰
 
-### 📈 My Stats...
+<a href="https://github.com/willfantom/composing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=composing&theme=graywhite&show_owner=true&hide_border=true">
+</a>
+<a href="https://github.com/willfantom/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=dotfiles&theme=graywhite&show_owner=true&hide_border=true">
+</a>
 
-![Will's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willfantom&show_icons=true&hide=["prs","issues","contribs"])
+---
 
-<!--
-**WillFantom/WillFantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Completed Projects
 
-Here are some ideas to get you started:
+> Some of this might still get an update in the future though...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/willfantom/lu-covid-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=lu-covid-api&theme=graywhite&hide_border=true&show_owner=true">
+</a>
+<a href="https://github.com/willfantom/dropbox-ignore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=dropbox-ignore&theme=graywhite&hide_border=true&show_owner=true">
+</a>
+<a href="https://github.com/willfantom/fantomos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=fantomos&theme=graywhite&hide_border=true&show_owner=true">
+</a>
+
+---
+
+### What I'm Teaching 👨🏻‍🏫
+
+  - [Distributed Systems](https://github.com/scc311) - Java RMI & Docker
+  - [Advanced Networking](https://github.com/advanced-networking) - Mininet & Ryu
+
+---
+
+### My Stats 📈 
+
+<a href="https://github.com/willfantom">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willfantom&theme=graywhite&hide_border=true&layout=compact">
+</a>
+
+<a href="https://github.com/willfantom">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willfantom&show_icons=true&hide=contribs&theme=graywhite&hide_border=true&layout=compact&count_private=true&show_icons=true?&disable_animations=true">
+</a>
+
+---
+
+### Contact 📫
+
+- University Email [w.fantom@lancs.ac.uk](mailto:w.fantom@lancs.ac.uk)
