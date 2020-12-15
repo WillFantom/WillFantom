@@ -27,8 +27,8 @@
 <a href="https://github.com/willfantom/composing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=composing&theme=graywhite&show_owner=true&hide_border=true">
 </a>
-<a href="https://github.com/willfantom/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=dotfiles&theme=graywhite&show_owner=true&hide_border=true">
+<a href="https://github.com/willfantom/.dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willfantom&repo=.dotfiles&theme=graywhite&show_owner=true&hide_border=true">
 </a>
 
 ---
